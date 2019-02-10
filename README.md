@@ -12,9 +12,13 @@ Uses a custom mediainfo template that you can change to select the properties.
 Credits
 --------
 [node-mediainfo](https://github.com/deoxxa/node-mediainfo)
+<<<<<<< HEAD
 
 [mimovie](https://github.com/rodrigopolo/mimovie)
 
+=======
+[mimovie](https://github.com/rodrigopolo/mimovie)
+>>>>>>> a5c083972c22ecc8e57fd85db774e29a6ea87d97
 [commit](https://github.com/rodrigopolo/mimovie/pull/3/commits/0d22f2a35c5385efede9498c812b73c346e92b92) by [daviestar](https://github.com/daviestar) 
 
 Install
