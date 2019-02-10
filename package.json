@@ -1,0 +1,38 @@
+{
+  "name": "json-mediainfo",
+  "description": "Node wrapper for 'mediainfo' to obtaining json information about multimedia files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "tudo75"
+  },
+  "url": "http://github.com/tudo75/json-mediainfo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tudo75/json-mediainfo.git"
+  },
+  "keywords": [
+    "mediainfo",
+    "json",
+    "media",
+    "audio",
+    "video",
+    "movie",
+    "mkv",
+    "m4v",
+    "mp4",
+    "mov",
+    "avi"
+  ],
+  "main": "./lib/json_mediainfo",
+  "engines": {
+    "node": ">=0.6.11"
+  },
+  "dependencies": {
+    "split": ">=1.0.x"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tudo75/json-mediainfo/issues"
+  }
+}
