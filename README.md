@@ -79,7 +79,7 @@ Example
 -------
 
 ```javascript
-var	json_mediainfo = require("./");
+var json_mediainfo = require("json-mediainfo");
 
 json_mediainfo('./stream.mp4', function(err, res) {
 	if (err) {
